@@ -14,9 +14,9 @@ Benvenuti nel repository del laboratorio del Gruppo 7 dedicato ai testi musicali
 
 Ogni membro del gruppo è assegnato a tradurre una lingua specifica:
 
-- **Federico Matacchione**: Traduzione in Italiano
 - **Gianluca Fiore**: Traduzione in Spagnolo
 - **Daniele Panzica**: Traduzione in Tedesco
+- **Giulia Zhou**: Traduzione in Italiano
 
 Le parti dei testi da tradurre includono tutte le strofe e i versi, inclusi eventuali dialoghi o parti recitate.
 
