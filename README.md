@@ -27,7 +27,7 @@ Le parti dei testi da tradurre includono tutte le strofe e i versi, inclusi even
 ## Testi Disponibili
 
 Puoi trovare i testi musicali nel seguente link:
-Testo 1 - Tumblr girls (G-Eazy) (https://www.angolotesti.it/G/testi_canzoni_g-eazy_69041/testo_canzone_tumblr_girls_1889724.html)
+Testo 1 - Love Yourself (Justin Bieber) (https://www.angolotesti.it/J/testi_canzoni_justin_bieber_53400/testo_canzone_love_yourself_2022607.html)
 Testo 2 - Fino all'imbrunire (Negramaro) (https://www.angolotesti.it/N/testi_canzoni_negramaro_1958/testo_canzone_fino_allimbrunire_2222721.html)
 Testo 3 - The spirit carries on (Dream Theatre) (https://www.angolotesti.it/D/testi_canzoni_dream_theater_865/testo_canzone_scene_seven:_the_spirit_carries_on_153148.html) 
 ---
